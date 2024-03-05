@@ -55,8 +55,8 @@ class AuthPage extends StatelessWidget {
           );
         },
         style: ElevatedButton.styleFrom(
-          primary: Colors.blue, // background color
-          onPrimary: Colors.white, // text color
+          primary: Colors.blue, 
+          onPrimary: Colors.white,
           padding: EdgeInsets.symmetric(vertical: 15, horizontal: 40), // button padding
         ),
         child: Text('Login'),
